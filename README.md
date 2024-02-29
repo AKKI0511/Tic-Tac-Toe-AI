@@ -3,6 +3,13 @@
 ## Overview
 This repository contains a Tic Tac Toe game implemented in Python, featuring an AI opponent using the minimax algorithm. The project provides both a command-line version (`tictactoe.py`) and a graphical version with a user interface created using Pygame (`runner.py`).
 
+### How to Run
+To play the Tic Tac Toe game with the graphical interface (`runner.py`), follow these steps:
+1. Ensure you have Python and Pygame installed on your machine. (Provided in `requirements.py`)
+2. Clone the repository to your local machine.
+3. Open a terminal and navigate to the project directory.
+4. Run the Pygame script: `python runner.py`.
+
 ## Features
 
 1. **Player Management:**
@@ -50,25 +57,12 @@ This repository contains a Tic Tac Toe game implemented in Python, featuring an 
 8. **`minimax(board)`**
    - Implements the minimax algorithm to find the optimal move for the current player.
 
-### How to Run
-To experience the Tic Tac Toe game (`tictactoe.py`), follow these steps:
-1. Clone the repository to your local machine.
-2. Navigate to the project directory.
-3. Run the Python script: `python tictactoe.py`.
-
 ### Future Enhancements
 Consider exploring the following enhancements for future development:
 - Implement a graphical user interface (GUI) for a more interactive gaming experience.
 - Add difficulty levels to adjust the AI's strategy for different skill levels.
 
 ## `runner.py` Technical Details
-
-### How to Run
-To play the Tic Tac Toe game with the graphical interface (`runner.py`), follow these steps:
-1. Ensure you have Python and Pygame installed on your machine.
-2. Clone the repository to your local machine.
-3. Open a terminal and navigate to the project directory.
-4. Run the Pygame script: `python runner.py`.
 
 ### Gameplay
 - **Player Selection:**
